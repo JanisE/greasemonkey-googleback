@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name Greasemonkey GoogleBack
 // @namespace https://github.com/JanisE
+// @description Project URL: https://github.com/JanisE/greasemonkey-googleback
 // @include *.google.*
 // @version 2
 // @grant none
